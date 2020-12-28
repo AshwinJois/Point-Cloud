@@ -32,3 +32,31 @@ It is a set of data points in space whcih represents 3D shape of an object. Each
 
 CAMERA
 
+For high precision automated driving,
+rear and 360°camera supports the driver with a better understanding of the surrounding
+region. Mostly, 2D cameras are used for sensing the environment. Some automotive
+companies also use a virtual 3D display to enhance the user experience. To produce
+realistic 3D images, data from at least 4 to 6 cameras are required.
+
+RADAR
+
+RADARs use electromagnetic waves to localize and detect the presence of an object or
+an obstacle. RADARs have been used in the automotive industry for a long time. It
+can determine velocity, range, range doppler maps and angle. It works well even in poor
+lighting conditions. The main drawback is that it finds it complicated to identify and
+classify the detected object or an obstacle
+
+LIDAR
+
+LiDAR is a newly introduced sensor in the automotive industry. A lot of automobile
+manufacturers are investing huge money and time in the production and data analysis
+of LiDAR. The LiDAR sensor makes use of a laser beam as the source and has a highly
+sensitive receiver. It can measure distances to objects and obstacles even when they are
+in motion. The LiDAR sensor provides a complete 360°coverage using a single unit. A set
+of 3D point coordinates of the surrounding is generated. LiDAR has better performance
+even in poor weather conditions, and it is not sensitive to low light. Processing LiDAR
+data is simpler than processing multiple camera data.
+
+
+
+
