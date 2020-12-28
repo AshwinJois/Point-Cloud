@@ -58,5 +58,7 @@ even in poor weather conditions, and it is not sensitive to low light. Processin
 data is simpler than processing multiple camera data.
 
 
+**Kitti Dataset**
 
+The kitti dataset consists of the data recorded by multiple sensors fitted on the car. The data was recorded for 6 hours of traffic scenarios using variety of sensors such as camera, Velodyne Lidar sensor. For more inforation check http://www.cvlibs.net/datasets/kitti/. 
 
