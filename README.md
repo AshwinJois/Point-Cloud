@@ -60,5 +60,8 @@ data is simpler than processing multiple camera data.
 
 **Kitti Dataset**
 
-The kitti dataset consists of the data recorded by multiple sensors fitted on the car. The data was recorded for 6 hours of traffic scenarios using variety of sensors such as camera, Velodyne Lidar sensor. For more inforation check http://www.cvlibs.net/datasets/kitti/. 
+The kitti dataset consists of the data recorded by multiple sensors fitted on the car. The data was recorded for 6 hours of traffic scenarios using variety of sensors such as camera, Velodyne Lidar sensor. For more inforation check http://www.cvlibs.net/datasets/kitti/. Since the main purpose of this repository is to know how the lidar data is distributed, let us unwrap the laser information of Velodyne. Download the velodyne point clouds which is of 29 GB.
+
+
+
 
