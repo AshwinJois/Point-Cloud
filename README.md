@@ -67,6 +67,6 @@ The Velodyne laser information is stored as .bin file. In order to understand th
 ![s=3](https://user-images.githubusercontent.com/63425115/103249677-ab0f3f00-4970-11eb-867d-6c70cd1f209f.png)
 
 
-
+The above figure shows the dsitribution of the lidar pings. Each ping has its own X, Y, Z coordinates. In order to have a better understanding of the distribution, let us rotate the plot and try to comprehend. 
 
 
