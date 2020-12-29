@@ -68,6 +68,7 @@ The Velodyne laser information is stored as .bin file. In order to understand th
 
 
 The above figure shows the dsitribution of the lidar pings. Each ping has its own X, Y, Z coordinates. In order to have a better understanding of the distribution, let us rotate the plot and try to comprehend. 
+
 ![Capture](https://user-images.githubusercontent.com/63425115/103250196-07735e00-4973-11eb-9e88-20dd7b178538.JPG)
 
-
+The above plot shows clearly how the lidar pings are being distributed among several obstacles such as car, persons, other obstacles and finally the ground reflections. Not all the pings are important such as pings from the wall, barriers on the road and also the reflection from the ground. In the plot the circular pattern represents the ground reflection. Removal of ground reflections are very important.
